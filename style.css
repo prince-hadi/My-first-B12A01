@@ -174,11 +174,7 @@ nav{
     width: 345px;
     padding: 20px;
     border-radius: 20px;
-    
-    
-    
  
-
 }
 
  .flax-box{
@@ -280,6 +276,73 @@ nav{
 .focus-section img{
     border-radius: 48px;
     margin-top: 20px;
+
+}
+
+.input-filde-section{
+    width: 1170px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-top: 110px;
+
+}
+
+.input-filde-section h1 {
+    font-size: 97px;
+    font-family: raleway;
+    font-weight: 800;
+
+}
+
+.input-area #email{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 20px 205px 20px 20px ;
+    border-radius: 5px;
+    border: none;
+    background-color: #ffffff;
+    color: #25243272;
+    font-family:inter ;
+}
+
+.input-area #text{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    padding: 20px 205px 20px 20px ;
+    border-radius: 5px;
+    border: none;
+    background-color: #ffffff;
+    color: #25243272;
+    font-family:inter ;
+}
+.input-area textarea{
+     margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 20px 0px 0px 20px ;
+    border-radius: 5px;
+    border: none;
+    background-color: #ffffff;
+    color: #25243272;
+    font-family:inter ;
+}
+.input-area label{
+    font-family:inter ;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.btn{
+    font-family: Raleway;
+    font-size: 16px;
+    padding: 15px 155px;
+    color: white;
+    border-radius: 10px;
+    background-color: #4e47ff;
+    border: none;
+}
+
+    
    
 
 
