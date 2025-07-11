@@ -60,6 +60,12 @@ nav{
 
 }
 
+.btn:hover{
+    background-color: cyan;
+    color: rgb(0, 0, 0);
+}
+
+
 .header-section h1{
     font-size: 65px;
     font-weight: bold;
@@ -342,7 +348,54 @@ nav{
     border: none;
 }
 
+footer{
+    background-color: #ffffff;
+    text-align: center;
+    margin-top: 110px;
+    padding-bottom: 60px;
+
+}
+.text-logo h1{
+    font-size: 100px;
+    font-family: inter;
+    font-weight: bold;
+    color: #4e47ff;
+    margin-bottom: 10px;
+
+    margin-top: 0px;
+}
+
+.text-logo p{
+    font-size: 16px;
+    font-weight: 900;
+    font-family: inter;
+    color: #25243272;
+    margin-bottom: 20px;
+
+}
+.text-link{
     
+}
+
+.text-link a {
+    font-size: 16px;
+    font-family: inter;
+    color: #25243272;
+      margin-bottom: 10px;
+    margin-right: 40px;
+    text-decoration: none;
+
+}
+.flax-b{
+    width: 555px;
+    margin-left: 455px;
+    padding-top: 70px;
+    
+}
+.a :hover{
+    background-color: #4e47ff;
+    color: #ffffff;
+}
    
 
 
